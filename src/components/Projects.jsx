@@ -372,7 +372,7 @@ const Projects = ({ projectsRef }) => {
 
             <div className="bg-[#D12727] p-10 text-white rounded-lg flex flex-col lg:flex-row gap-10">
               <motion.div
-                className="lg:w-[250%] mlg:w-[200%] xl:w-[150%] flex justify-center items-center"
+                className="lg:w-[350%] mlg:w-[300%] xl:w-[240%] flex justify-center items-center"
                 initial={{ opacity: 0, scale: 0.5 }}
                 animate={{ opacity: 1, scale: 1 }}
                 transition={{
