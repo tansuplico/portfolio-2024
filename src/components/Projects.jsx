@@ -399,10 +399,12 @@ const Projects = ({ projectsRef }) => {
                     </a>
                   </div>
                   <p className="text-[.8rem] lg:text-[1.1rem] lg:py-3">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Cupiditate aliquam delectus aliquid aut maxime sed incidunt
-                    numquam cumque natus odit, neque voluptas? In rem et odit
-                    numquam sequi aspernatur illum.
+                    Starbucks Clone is a simple front-end application emulating
+                    the Starbucks experience. It features a clean and visually
+                    appealing interface where users can explore various menu
+                    items. Designed for an intuitive browsing experience, the
+                    Starbucks Clone highlights product details and visuals,
+                    capturing the essence of the brand.
                   </p>
                 </div>
 
